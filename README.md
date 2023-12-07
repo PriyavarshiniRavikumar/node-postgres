@@ -72,6 +72,10 @@ for more info visit [Documentation](http://docs.sequelizejs.com/manual/tutorial/
 
 `npm start`
 
+## install nodemon
+   
+   npm i nodemon
+
 ## On delete Cascade
 
 
