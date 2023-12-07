@@ -74,7 +74,7 @@ for more info visit [Documentation](http://docs.sequelizejs.com/manual/tutorial/
 
 ## On delete Cascade
 
-`
-drop table if exists table_name cascade
 
-`
+## drop table if exists table_name cascade
+
+
